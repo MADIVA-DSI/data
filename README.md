@@ -44,4 +44,4 @@ The other tables capture information about and relate the individuals and househ
 
 There are also some small auxiliary tables that describe the data sources and the ncd indicators. A simplified entity-relationship diagram is shown below:
 
-![MADIVA ER](docs/ER.jpg)
+![MADIVA ER](documentation/ER.jpg)
