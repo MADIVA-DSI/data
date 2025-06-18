@@ -13,7 +13,7 @@ Description of the sites can be found here:
 
 ## Principles and ethics of data Sharing
 
-The [MADIVA Data Sharing Policy](docs/madiva_data_sharing_301.pdf) balances three principles:
+The [MADIVA Data Sharing Policy](documentation/madiva_data_sharing_301.pdf) balances three principles:
 - Protecting research participants. This is our priority. We need to work within the constraints of our ethics approval, consent given by participants and the South African and Kenyan legislation:
 - Our support for open science. We believe our data will be of benefit to many people.
 - MADIVA is a secondary data project. We want to give the primary providers a limited period of exclusive access.
@@ -45,3 +45,8 @@ The other tables capture information about and relate the individuals and househ
 There are also some small auxiliary tables that describe the data sources and the ncd indicators. A simplified entity-relationship diagram is shown below:
 
 ![MADIVA ER](documentation/ER.jpg)
+
+
+## Data specification & Codebook
+
+The Data Specification document, which provides detailed information on the studies and their associated questionnaires/codebooks that have been harmonized as part of the database, is available at the following link: [MADIVA Data Specification](documentation/madiva_data_specification.xlsx).
